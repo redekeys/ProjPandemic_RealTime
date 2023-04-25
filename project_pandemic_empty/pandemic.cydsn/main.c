@@ -5,6 +5,8 @@
  * 
  *                   2023
  *
+ * Michel-Antony, Pierre-Olivier et Renaud
+ *
  * ========================================
 */
 #include "project.h"
